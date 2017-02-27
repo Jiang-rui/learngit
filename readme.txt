@@ -12,4 +12,5 @@ git clone git@github:Jiang-rui/gitskills.git
 
 this is a branch
 
-Creating a new branch is quite&simple.
+
+Creating a new branch is quick and simple.
